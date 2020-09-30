@@ -1,0 +1,54 @@
+selector {
+   rules of styling: ;
+}
+
+* {
+  changes everything
+}
+
+#passwordInput {
+  background: red:
+}
+
+.big {
+  font-size: 40px;
+}
+
+.redBCKG {
+  background: red;
+}
+ /* ddd  */
+
+body {
+  font-family: 'Baloo Tammudu 2', cursive;
+;
+}
+
+label, imput, button, textarea {
+  display: block;
+}
+
+h1 {
+  background: #41C1F0;
+  color: white;
+  display: block;
+  margin: 10px 10px 30px 40px;
+  padding: 40px 30px 20px 10px;
+  border: 3px solid navy;
+  width: 30%;
+  height: 50px;
+}
+
+h2 {
+  background: orange;
+  color: white;
+  display: block;
+  margin-left: 50px;
+  margin-top: 0;
+}
+
+h3, h4 {
+  background: red;
+  color: white;
+  display: inline;
+}

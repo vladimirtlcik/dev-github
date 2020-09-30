@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FRONTPAGE</title>
+</head>
+
+<style>
+</style>
+
+<link rel="stylesheet" href="myfirst-style.css">
+
+</head>
+    <body>
+<!-- NAVIGACIA -->
+    <main>
+        <a href="../firstattempts/index.html">AVE</a>
+        <a href="../firstattempts/second.html">My second page</a>
+        <a href="../firstattempts/first-html-tag.html">First html tag</a>
+    </main>
+        <h1>My frontpage</h1>
+    <main>
+            <h2>Subtitle</h2>
+                <section>
+
+                </section>
+    </main>
+    </body>
+</html>
