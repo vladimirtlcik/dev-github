@@ -1,0 +1,28 @@
+.card {
+  width: 150px;
+  background-color: #3cb878;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  background-color: #6666ff;
+  box-shadow: 0px 0px 5px #888888;
+  corner-radius: 5px;
+  padding: 10px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+.sign/up/form {
+  border: solid thin #cccccc;
+  border-radius: 
+}
